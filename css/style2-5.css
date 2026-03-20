@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.parent > p {
+  color: blue;
+  font-weight: bold;
+}
+
+.parent p {
+  font-style: italic;
+}
+
+a[target] {
+  color: red;
+  text-emphasis: none;
+}
+
+a[target="_self"] {
+  color: orange;
+  text-emphasis: underline;
+}

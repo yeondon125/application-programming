@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.title {
+  color: red;
+}
+
+p {
+  background-color: yellow;
+}
+
+* {
+  text-decoration: underline;
+}
+
+.blue {
+  color: blue;
+}

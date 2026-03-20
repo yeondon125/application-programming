@@ -1,0 +1,27 @@
+a:hover {
+  text-decoration: none;
+}
+
+h1,
+.highlight {
+  background-color: yellow;
+  padding: 10px;
+}
+
+button:hover,
+button:focus {
+  background-color: green;
+  color: white;
+}
+
+li:first-child {
+  font-weight: bold;
+  color: red;
+}
+
+p::first-line {
+  color: blue;
+}
+
+.impo {
+}
