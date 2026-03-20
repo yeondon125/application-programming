@@ -1,0 +1,33 @@
+div {
+  width: 200px;
+  height: 100px;
+  border: 3px solid black;
+  margin-bottom: 10px;
+}
+
+.bg1 {
+  background-color: skyblue;
+}
+.bg2 {
+  background-image: url("img/img1.png");
+}
+.b3 {
+  background-image: url("img/img1.png");
+  background-repeat: no-repeat;
+}
+.b4 {
+  background-image: url("img/img1.png");
+  background-repeat: no-repeat;
+  background-position: 50px 20px;
+}
+.b5 {
+  background-image: url("img/img1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.b6 {
+  background-color: skyblue;
+
+  background-image: url("img/img1.png");
+  background-repeat: no-repeat 50px 20px/50;
+}
