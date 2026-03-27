@@ -17,6 +17,10 @@ p {
   top: 20px;
 }
 
+.box2 {
+  position: relative;
+}
+
 .box2-2 {
   position: absolute;
   left: 20px;
