@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.inner {
+  width: 1200px;
+  display: flex;
+}
+
+header {
+  background-color: #6a5ea6;
+  width: 300px;
+}
+
+.con {
+  width: 900px;
+  background-color: #369;
+  display: flex;
+  flex-direction: column;
+}
+
+.con1 {
+  background-color: tomato;
+  height: 300px;
+}
+.con2 {
+  background-color: #369;
+  height: 200px;
+}
+.con3 {
+  background-color: #476749;
+  height: 200px;
+}
+
+.con4 {
+  background-color: #333;
+  height: 100px;
+}
